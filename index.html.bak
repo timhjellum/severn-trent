@@ -891,7 +891,48 @@
                 <p class="sub">From the first content audit to the final wireframes, I owned the taxonomy strategy and the user&#8209;facing design that followed it.</p>
             </div>
 
-            <div class="steps"></div>
+            <div class="steps">
+                <div class="card">
+                    <div class="num">01</div>
+                    <div class="title">Content Inventory</div>
+                    <div class="desc">Performed a comprehensive product and services content audit across the public site.</div>
+                </div>
+                <div class="card">
+                    <div class="num">02</div>
+                    <div class="title">Product Taxonomy</div>
+                    <div class="desc">Developed a detailed product grouping and classification system built around real user needs.</div>
+                </div>
+                <div class="card">
+                    <div class="num">03</div>
+                    <div class="title">Migration Strategy</div>
+                    <div class="desc">Facilitated migration strategy sessions to ensure content was organized and transitioned successfully.</div>
+                </div>
+                <div class="card">
+                    <div class="num">04</div>
+                    <div class="title">Stakeholder Alignment</div>
+                    <div class="desc">Facilitated requirements&#8209;gathering sessions with business stakeholders to shape scope and priorities.</div>
+                </div>
+                <div class="card">
+                    <div class="num">05</div>
+                    <div class="title">Information Architecture (IA)</div>
+                    <div class="desc">Built detailed sitemaps and wireframes, translating the new taxonomy into a navigable structure.</div>
+                </div>
+                <div class="card">
+                    <div class="num">06</div>
+                    <div class="title">User Personas</div>
+                    <div class="desc">Developed user personas to define target users, clarify their goals, and guide user-centered design decisions.</div>
+                </div>
+                <div class="card">
+                    <div class="num">07</div>
+                    <div class="title">Prototyping &amp; Scenarios</div>
+                    <div class="desc">Validated flows through hi/lo&#8209;fidelity prototyping and use&#8209;case scenario walkthroughs.</div>
+                </div>
+                <div class="card">
+                    <div class="num">08</div>
+                    <div class="title">SEO &amp; Storyboards</div>
+                    <div class="desc">Shaped storyboards and SEO considerations to keep the new IA discoverable end to end.</div>
+                </div>
+            </div>
         </div>
 
         <div class="showcase">
@@ -1005,7 +1046,24 @@
         <div class="skills">
             <span class="kicker">Skills &amp; Technologies</span>
             <h2 class="display">The toolkit behind it</h2>
-            <div class="skill-tags"></div>
+            <div class="skill-tags">
+                <span class="tag">Product Strategy</span>
+<span class="tag">Discovery</span>
+<span class="tag">Stakeholder Alignment</span>
+<span class="tag">Requirements Analysis</span>
+                
+                <span class="tag">Information Architecture (IA)</span>
+<span class="tag">Wireframing</span>
+<span class="tag">Prototyping</span>
+<span class="tag">Accessibility / WCAG</span>
+                
+                <span class="tag">Hi / Lo-Fidelity Prototyping</span>
+                
+                
+                
+                
+                <span class="tag">User Research</span><span class="tag">User Personas</span><span class="tag">User Flows</span>
+            </div>
         </div>
 
         <div class="closing">
